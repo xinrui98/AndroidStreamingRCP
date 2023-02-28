@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_visibility_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxxhdpi/ic_visibility_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_nav_header_user.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/nav_header_user.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_text_border_default.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/text_border_default.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_menu_item_user_info.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/menu_item_user_info.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_visibility_off_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxxhdpi/ic_visibility_off_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_spinner_item_camera_list.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/spinner_item_camera_list.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_drawer.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_account_circle_white1.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_account_circle_white1.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/menu_simple_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/menu/simple_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_selector.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_menu_share.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_simple_spinner.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/simple_spinner.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_app_bar_simple_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/app_bar_simple_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_selected.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_selected.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_default.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_default.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_text_border_error.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/text_border_error.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_widget_camera_selector.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/widget_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_cancel_black.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_cancel_black.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_visibility_off_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxhdpi/ic_visibility_off_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_pressed.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_activity_streaming.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/activity_streaming.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_activity_simple_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/activity_simple_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_text_border_selector.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/text_border_selector.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_menu_item_regular.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/menu_item_regular.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-hdpi_ic_visibility_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-hdpi/ic_visibility_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-mdpi_ic_visibility_off_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-mdpi/ic_visibility_off_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_nav_header_simple_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/nav_header_simple_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_visibility_off_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xhdpi/ic_visibility_off_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/menu_activity_user_drawer.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/menu/activity_user_drawer.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/raw_awsconfiguration.json.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/raw/awsconfiguration.json"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_eye.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/eye.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_content_simple_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/content_simple_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_visibility_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xhdpi/ic_visibility_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_activity_main_nav.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/activity_main_nav.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-hdpi_ic_visibility_off_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-hdpi/ic_visibility_off_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_not_checked.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/not_checked.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_visibility_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxhdpi/ic_visibility_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_add.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-hdpi_kinesisvideo_logo.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-hdpi/kinesisvideo_logo.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/menu_activity_simple_nav_drawer.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/menu/activity_simple_nav_drawer.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fragment_streaming.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fragment_streaming.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fields_generic.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fields_generic.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_menu_black.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_menu_black.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fragment_capture_test.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fragment_capture_test.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_sync.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/sync.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_baseline_folder_24.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_baseline_folder_24.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_success.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_success.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_user_attribute_widget.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/user_attribute_widget.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_checked.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/checked.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-mdpi_ic_visibility_black.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-mdpi/ic_visibility_black.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fragment_planet.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fragment_planet.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fragment_stream_configuration.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fragment_stream_configuration.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_text_border_selected.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/text_border_selected.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_check_box_selector.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/check_box_selector.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_fragment_frames.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/fragment_frames.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_avatar.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/avatar.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_account_circle_white.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_account_circle_white.png"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

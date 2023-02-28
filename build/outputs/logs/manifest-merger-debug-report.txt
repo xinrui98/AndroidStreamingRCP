@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:3:1-21:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01a9fb3be8ce56617b5b173766f9a32b/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/bf897d88c3b585e3e9279ccde180d57d/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/540778289d06c4fa11d81e37391dd9c8/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/448f23e8eac4f156077d0a03db47688b/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68b14d8bda24cb60c4f5cf4ec9a9dc0b/jetified-aws-android-sdk-auth-core-2.52.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/226fd7a49ffcbb5b7a31456c35bcd9b9/jetified-aws-android-sdk-cognitoidentityprovider-2.52.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8003463e50fd391c0b801c585cd2ac77/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.52.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.media:media:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/05262f07e46b417e039eb5ae9f0de398/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/1e2ec140616ebc9b0d43d5178b6fd490/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5afbd2e3ff40e1a24c8cdb6837a4ab67/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3d5e39545d4f06e27dccf8e0fd93a524/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f5280ce5b6d316a5f6a713daf8f83f98/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2184d643e3dc48ec088093bf4703920b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/a520967086ccd84018f9a66fbba3d080/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/fade21b6694cfeb68ad0ef3199ce3e4f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/9720615832e33c09e80adec3949b7160/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/181f7461973af8f178012410b1340b04/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3db22d1e2e19178b84c0650596482ae1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/90103bf4bd44dc5e356d32430d0e4a40/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca6c92c0412375108e40c258555cdb04/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68eff87d696ed4c13840b7b9185e72ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/67f0a30572940b788eb06865cc4e5cfd/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/088d7d849f49f07ab53816da761fdba5/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7da3bd7dc30f532c7dd6822fc53d0cd6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca3ac447b8c6e554bbc3ca315b4dcd73/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8d5366fb377360277af90eeda40910c0/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f6c967d4d0430ad205dda58018793e9b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/d8508a3248c27b2f368880f7828c0b34/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/21b3db2190fa0fa216576375ad80ae54/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/75fb746d84c0a1a4c5ff7277dfd70d80/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7e92cdd294dbda435b317748899b64a9/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/628128fe67f31f513c0449e18c2df100/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/358676f876d126cdb93dc2ae9e640f56/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2ae806ece2580bf69becc3d2183e441c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ff8e00f72654800a11574b55f214c01b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b5a6f850a8cbad14b557755a4a739154/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01db54804b66b2b8f058ea79386ae547/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/99cdd22df1372f469fb8c2408d666ead/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:3:11-55
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:13:5-67
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:13:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:17:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:17:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:10:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:10:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:10:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:18:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:18:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:11:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:11:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:11:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:7:5-64
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:12:5-65
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.camera2
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:9:5-61
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:9:19-58
+application
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:15:5-19:19
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:15:5-19:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:13:5-19:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:13:5-19:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:14:5-40:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:14:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/bf897d88c3b585e3e9279ccde180d57d/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/bf897d88c3b585e3e9279ccde180d57d/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/448f23e8eac4f156077d0a03db47688b/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/448f23e8eac4f156077d0a03db47688b/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:10:5-14:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:10:5-14:19
+MERGED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f6c967d4d0430ad205dda58018793e9b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f6c967d4d0430ad205dda58018793e9b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:12:9-78
+activity#com.amazonaws.kinesisvideo.demoapp.activity.StartUpActivity
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:20:13-57
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:19:13-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:26:27-74
+activity#com.amazonaws.kinesisvideo.demoapp.activity.SimpleNavActivity
+ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:29:9-33:20
+	android:label
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:31:13-62
+	android:theme
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml:30:13-89
+uses-sdk
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:12:5-15:96
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:12:5-15:96
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01a9fb3be8ce56617b5b173766f9a32b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01a9fb3be8ce56617b5b173766f9a32b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/bf897d88c3b585e3e9279ccde180d57d/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/bf897d88c3b585e3e9279ccde180d57d/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/540778289d06c4fa11d81e37391dd9c8/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/540778289d06c4fa11d81e37391dd9c8/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/448f23e8eac4f156077d0a03db47688b/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/448f23e8eac4f156077d0a03db47688b/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68b14d8bda24cb60c4f5cf4ec9a9dc0b/jetified-aws-android-sdk-auth-core-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68b14d8bda24cb60c4f5cf4ec9a9dc0b/jetified-aws-android-sdk-auth-core-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/226fd7a49ffcbb5b7a31456c35bcd9b9/jetified-aws-android-sdk-cognitoidentityprovider-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/226fd7a49ffcbb5b7a31456c35bcd9b9/jetified-aws-android-sdk-cognitoidentityprovider-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8003463e50fd391c0b801c585cd2ac77/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8003463e50fd391c0b801c585cd2ac77/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.media:media:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/05262f07e46b417e039eb5ae9f0de398/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/05262f07e46b417e039eb5ae9f0de398/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/1e2ec140616ebc9b0d43d5178b6fd490/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/1e2ec140616ebc9b0d43d5178b6fd490/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5afbd2e3ff40e1a24c8cdb6837a4ab67/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5afbd2e3ff40e1a24c8cdb6837a4ab67/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3d5e39545d4f06e27dccf8e0fd93a524/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3d5e39545d4f06e27dccf8e0fd93a524/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f5280ce5b6d316a5f6a713daf8f83f98/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f5280ce5b6d316a5f6a713daf8f83f98/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2184d643e3dc48ec088093bf4703920b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2184d643e3dc48ec088093bf4703920b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/a520967086ccd84018f9a66fbba3d080/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/a520967086ccd84018f9a66fbba3d080/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/fade21b6694cfeb68ad0ef3199ce3e4f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/fade21b6694cfeb68ad0ef3199ce3e4f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/9720615832e33c09e80adec3949b7160/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/9720615832e33c09e80adec3949b7160/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/181f7461973af8f178012410b1340b04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/181f7461973af8f178012410b1340b04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3db22d1e2e19178b84c0650596482ae1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/3db22d1e2e19178b84c0650596482ae1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/90103bf4bd44dc5e356d32430d0e4a40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/90103bf4bd44dc5e356d32430d0e4a40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca6c92c0412375108e40c258555cdb04/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca6c92c0412375108e40c258555cdb04/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68eff87d696ed4c13840b7b9185e72ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/68eff87d696ed4c13840b7b9185e72ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/67f0a30572940b788eb06865cc4e5cfd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/67f0a30572940b788eb06865cc4e5cfd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/088d7d849f49f07ab53816da761fdba5/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/088d7d849f49f07ab53816da761fdba5/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7da3bd7dc30f532c7dd6822fc53d0cd6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7da3bd7dc30f532c7dd6822fc53d0cd6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca3ac447b8c6e554bbc3ca315b4dcd73/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ca3ac447b8c6e554bbc3ca315b4dcd73/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/07795795a894ffcd575360448d878f33/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8d5366fb377360277af90eeda40910c0/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8d5366fb377360277af90eeda40910c0/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f6c967d4d0430ad205dda58018793e9b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/f6c967d4d0430ad205dda58018793e9b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/d8508a3248c27b2f368880f7828c0b34/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/d8508a3248c27b2f368880f7828c0b34/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/21b3db2190fa0fa216576375ad80ae54/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/21b3db2190fa0fa216576375ad80ae54/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/75fb746d84c0a1a4c5ff7277dfd70d80/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/75fb746d84c0a1a4c5ff7277dfd70d80/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7e92cdd294dbda435b317748899b64a9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/7e92cdd294dbda435b317748899b64a9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/628128fe67f31f513c0449e18c2df100/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/628128fe67f31f513c0449e18c2df100/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/358676f876d126cdb93dc2ae9e640f56/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/358676f876d126cdb93dc2ae9e640f56/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2ae806ece2580bf69becc3d2183e441c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/2ae806ece2580bf69becc3d2183e441c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ff8e00f72654800a11574b55f214c01b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ff8e00f72654800a11574b55f214c01b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b5a6f850a8cbad14b557755a4a739154/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b5a6f850a8cbad14b557755a4a739154/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01db54804b66b2b8f058ea79386ae547/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/01db54804b66b2b8f058ea79386ae547/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/99cdd22df1372f469fb8c2408d666ead/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/99cdd22df1372f469fb8c2408d666ead/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/8dfba3e5cee11ae3eaee127e15df4504/jetified-aws-android-sdk-mobile-client-2.52.1/AndroidManifest.xml:15:9-93
+	android:targetSdkVersion
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		ADDED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+		INJECTED from /Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/AndroidManifest.xml
+uses-library#org.apache.http.legacy
+ADDED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:16:9-18:40
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:11:9-13:40
+MERGED from [com.amazonaws:aws-android-sdk-core:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/b826ae76e044479220efd767ea0540d3/jetified-aws-android-sdk-core-2.52.1/AndroidManifest.xml:11:9-13:40
+	android:required
+		ADDED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/5f6d552b5c16967f87f4879dda81485b/jetified-aws-android-sdk-kinesisvideo-2.52.1/AndroidManifest.xml:17:13-50
+activity#com.amazonaws.mobile.auth.ui.SignInActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:14:9-18:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:17:13-59
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/43da70208b09fb33ec0ee8c308ef3d8c/jetified-aws-android-sdk-auth-ui-2.52.1/AndroidManifest.xml:15:13-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:12:22-73
+activity#com.amazonaws.mobile.auth.userpools.ForceChangePasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:15:9-19:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:18:13-73
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:17:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:16:13-91
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:20:9-24:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:23:13-67
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:21:13-86
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:25:9-29:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:28:13-59
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:26:13-78
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:30:9-34:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:33:13-55
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:32:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:31:13-75
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:35:9-39:52
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:38:13-67
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:37:13-83
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.52.1] /Users/xinruigao/.gradle/caches/transforms-2/files-2.1/ceb05f193888a5a04f2e19495478a827/jetified-aws-android-sdk-auth-userpools-2.52.1/AndroidManifest.xml:36:13-85

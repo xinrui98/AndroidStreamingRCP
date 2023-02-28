@@ -1,0 +1,7 @@
+#Tue Feb 28 15:52:29 SGT 2023
+base.0=/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

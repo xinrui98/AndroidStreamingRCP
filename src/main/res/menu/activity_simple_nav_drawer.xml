@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/simple_nav_stream_from_camera"/>
+        <item
+            android:id="@+id/nav_frames"
+            android:icon="@drawable/ic_baseline_folder_24"
+            android:title="@string/simple_nav_stream_from_assets"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/log_out"/>
+        </menu>
+    </item>
+
+</menu>
