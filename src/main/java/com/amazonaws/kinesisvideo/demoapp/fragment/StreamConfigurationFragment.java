@@ -15,6 +15,7 @@ import android.util.Size;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
@@ -66,8 +67,6 @@ public class StreamConfigurationFragment extends Fragment {
     private StringSpinnerWidget<Float> mRotationDropdown;
 
     private SimpleNavActivity navActivity;
-    private Handler handler;
-    private Runnable runnable;
 
     private String searchString = "some string";
     private String endpointUrl = "https://jsonplaceholder.typicode.com/todos/1";
@@ -175,8 +174,8 @@ public class StreamConfigurationFragment extends Fragment {
 
     private ArrayList<Float> getRotations() {
         final ArrayList<Float> rotations = new ArrayList<>();
-        rotations.add(0f);
         rotations.add(90f);
+        rotations.add(0f);
         rotations.add(180f);
         rotations.add(270f);
         return rotations;
@@ -206,10 +205,11 @@ public class StreamConfigurationFragment extends Fragment {
         mStartStreamingButton = (Button) view.findViewById(R.id.start_streaming);
         mStartStreamingButton.setOnClickListener(startStreamingActivityWhenClicked());
         mStreamName = (EditText) view.findViewById(R.id.stream_name);
-        mAspectRatioCheckBox = (CheckBox) view.findViewById(R.id.aspect_ratio_checkbox);
-        mAspectRatioCheckBox.setOnClickListener(onAspectRatioCheckBoxClick());
-        mFillCheckBox = (CheckBox) view.findViewById(R.id.maximize_checkbox);
-        mMirrorCheckBox = (CheckBox) view.findViewById(R.id.mirror_checkbox);
+//        mAspectRatioCheckBox = (CheckBox) view.findViewById(R.id.aspect_ratio_checkbox);
+//        mAspectRatioCheckBox.setOnClickListener(onAspectRatioCheckBoxClick());
+//        mFillCheckBox = (CheckBox) view.findViewById(R.id.maximize_checkbox);
+//        mMirrorCheckBox = (CheckBox) view.findViewById(R.id.mirror_checkbox);
+
     }
 
     private View.OnClickListener startStreamingActivityWhenClicked() {
@@ -236,7 +236,7 @@ public class StreamConfigurationFragment extends Fragment {
     // front facing camera preview is mirrored, so we need to mirror it again to un-mirror it.
     // see https://source.android.com/compatibility/android-cdd#7_5_2_front-facing_camera
     private void updateMirroredCheckBox() {
-        mMirrorCheckBox.setChecked(mCamerasDropdown.getSelectedItem().getCameraFacing() == CameraCharacteristics.LENS_FACING_FRONT);
+//        mMirrorCheckBox.setChecked(mCamerasDropdown.getSelectedItem().getCameraFacing() == CameraCharacteristics.LENS_FACING_FRONT);
     }
 
     private void startStreamingActivity() {
@@ -248,13 +248,13 @@ public class StreamConfigurationFragment extends Fragment {
 
         extras.putString(
                 StreamingFragment.KEY_STREAM_NAME,
-                mStreamName.getText().toString());
+                "demo-stream");
 
         extras.putFloat(StreamingFragment.KEY_ROTATION, mRotationDropdown.getSelectedItem() -
                 mCamerasDropdown.getSelectedItem().getCameraOrientation());
-        extras.putBoolean(StreamingFragment.KEY_SHOULD_MAINTAIN_ASPECT_RATIO, mAspectRatioCheckBox.isChecked());
-        extras.putBoolean(StreamingFragment.KEY_SHOULD_FILL_SCREEN, mFillCheckBox.isChecked());
-        extras.putBoolean(StreamingFragment.KEY_IS_MIRRORED, mMirrorCheckBox.isChecked());
+        extras.putBoolean(StreamingFragment.KEY_SHOULD_MAINTAIN_ASPECT_RATIO, true);
+        extras.putBoolean(StreamingFragment.KEY_SHOULD_FILL_SCREEN, false);
+        extras.putBoolean(StreamingFragment.KEY_IS_MIRRORED, false);
 
         navActivity.startStreamingFragment(extras);
     }

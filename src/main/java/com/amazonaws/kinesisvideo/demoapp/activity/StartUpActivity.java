@@ -51,7 +51,7 @@ public class StartUpActivity extends AppCompatActivity {
         return SignInUIOptions.builder()
                 .nextActivity(SimpleNavActivity.class)
                 .backgroundColor(Color.WHITE)
-                .logo(R.mipmap.kinesisvideo_logo)
+                .logo(R.drawable.climbai_logo)
                 .build();
     }
 }

@@ -44,6 +44,10 @@
         "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/menu/simple_nav.xml"
     },
     {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_climbai_logo.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/climbai_logo.xml"
+    },
+    {
         "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_selector.xml.flat",
         "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/button_selector.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
         "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_background.jpg.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/drawable/background.jpg"
     },
     {
         "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_button_selected.xml.flat",
@@ -230,6 +238,10 @@
     {
         "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_user_attribute_widget.xml.flat",
         "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/user_attribute_widget.xml"
+    },
+    {
+        "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/src/main/res/layout/spinner_item.xml"
     },
     {
         "merged": "/Users/xinruigao/Desktop/RCP/StreamingAndroid/build/intermediates/res/merged/debug/drawable_checked.png.flat",

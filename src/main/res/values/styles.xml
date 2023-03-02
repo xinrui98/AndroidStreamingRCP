@@ -62,4 +62,12 @@
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
         <item name="android:layout_centerHorizontal">true</item>
     </style>
+
+    <style name="TransparentSpinner" parent="@style/Widget.AppCompat.Spinner">
+        <item name="android:spinnerItemStyle">@style/TransparentSpinnerItem</item>
+    </style>
+
+    <style name="TransparentSpinnerItem">
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
 </resources>

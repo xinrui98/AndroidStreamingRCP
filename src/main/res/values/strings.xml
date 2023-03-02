@@ -13,7 +13,7 @@
     <string name="title_activity_user">Account Info</string>
     <string name="title_activity_streaming">Streaming</string>
     <string name="title_activity_main">AWS KinesisVideo Demo App</string>
-    <string name="title_fragment_stream">Stream Configuration</string>
+    <string name="title_fragment_stream">ClimbAI</string>
     <string name="title_fragment_stream_detailed_configuration">Stream Detailed Configuration</string>
     <string name="Username">Username</string>
     <string name="Password">Password</string>
